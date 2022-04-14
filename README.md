@@ -4,7 +4,7 @@
 <hr>
 - i am student of B.E(Information Technology)
 
-- MY email id : <a>kishanbhadani83@gmail.com</a>
+- My Email id : <a>kishanbhadani83@gmail.com</a>
 
 
 
