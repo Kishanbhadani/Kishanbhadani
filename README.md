@@ -2,9 +2,9 @@
 
 
 <hr>
-- i am student of B.E(Information Technology)
+- i am a student of B.E(Information Technology)
 
-- My Email id : <a>kishanbhadani83@gmail.com</a>
+- My Email id : ✉️<a>kishanbhadani83@gmail.com</a>
 
 
 
