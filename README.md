@@ -4,7 +4,10 @@
 <hr>
 - i am a student of B.E(Information Technology)
 
-- My Email id : ✉️<a>kishanbhadani83@gmail.com</a>
+- My Email I'd : ✉️<a>kishanbhadani83@gmail.com</a>
+
+- Linkedin I'd : <a>https://www.linkedin.com/in/bhadani-kishan-8a423a20a</a>
+
 
 
 
