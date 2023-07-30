@@ -16,8 +16,6 @@
 Kishanbhadani/Kishanbhadani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to tae a look at your changes.
 --->
-
-
 # Hello, I'm YOUR_NAME 👋
 
 ## About Me
@@ -52,6 +50,15 @@ I actively contribute to open-source projects and believe in the power of collab
 - [CONTRIBUTION_2_NAME](link_to_contribution2_repository) - Short description of the contribution.
 - [CONTRIBUTION_3_NAME](link_to_contribution3_repository) - Short description of the contribution.
    ...
+
+## Skills and Proficiency
+
+- HTML/CSS 💻⭐⭐⭐⭐ 80%
+- JavaScript 🚀⭐⭐⭐ 60%
+- Java ☕⭐⭐⭐⭐ 80%
+- React ⚛️⭐⭐⭐ 70%
+- Node.js 📦⭐⭐⭐ 65%
+- MongoDB 🍃⭐⭐⭐ 70%
 
 ## Get In Touch
 
