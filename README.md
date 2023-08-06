@@ -1,6 +1,12 @@
-![Kishan bhadani Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%)
 
-<img alt="Night Coding" src="https://media.licdn.com/dms/image/C4D03AQET257xs1ulFw/profile-displayphoto-shrink_800_800/0/1659018497832?e=2147483647&v=beta&t=BuvLw77T9Jpcr1YvmGsDMKKVN-tqnrPaErToO0qM7CQ" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<h1 align="center"><b>Hi , I'm Kishan Bhadani </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->A
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Information+Technology+Student,;Active+Learner+Good+Listener,;Love+to+learn+new+Technology..<3"></a>
+</p>
+
+
+<br>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
